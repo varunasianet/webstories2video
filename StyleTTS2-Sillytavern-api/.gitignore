@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+
+
+# Virtual environment
+styletts2_env/
+
+# Specific files (if you don't want to track them)
+# fast_api.py
+# main.py
+# start_server.sh
+# wsgi.py
+

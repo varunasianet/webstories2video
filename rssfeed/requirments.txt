@@ -1,0 +1,7 @@
+requests
+feedparser
+datetime
+cloud-sql-python-connector[pymysql]
+PyMySQL
+sqlalchemy
+logging

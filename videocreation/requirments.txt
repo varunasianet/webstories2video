@@ -1,0 +1,7 @@
+pydub
+requests
+numpy
+Pillow
+beautifulsoup4
+moviepy
+urllib3
